@@ -118,3 +118,4 @@ configure<org.owasp.dependencycheck.gradle.extension.DependencyCheckExtension> {
     format = org.owasp.dependencycheck.reporting.ReportGenerator.Format.ALL
 }
 ```
+############################
